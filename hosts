@@ -1,0 +1,3 @@
+[routers]
+ce ansible_host=10.0.0.1
+pe ansible_host=20.0.0.1
